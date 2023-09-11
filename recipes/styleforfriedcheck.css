@@ -1,0 +1,61 @@
+
+h1{
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.description{
+    font-size: 27px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p{
+    color: yellow;
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ingredients{
+    color: yellow;
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li{
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#steps{
+    font-size: 27px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol li{
+    color: yellow;
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid white;
+}
+
+body{
+    background-color: black;
+}
+

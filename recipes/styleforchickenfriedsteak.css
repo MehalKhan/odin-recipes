@@ -1,0 +1,56 @@
+h1{
+    color: yellow;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 1000px;
+}
+
+.ingredients{
+    color: yellow;
+    text-align: left;
+    font-size: 27px;
+}
+
+.name.of.dish{
+    color: yellow;
+    text-align: left;
+    font-size: 27px;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+    color: yellow;
+}
+ul li{
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.steps{
+    color: yellow;
+    text-align: left;
+    font-size: 27px;
+}
+
+ol li{
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid white;
+}
+
+body{
+    background-color: black;
+}

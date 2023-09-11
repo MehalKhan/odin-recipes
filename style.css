@@ -1,0 +1,44 @@
+
+h1{
+    color: yellow;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    
+}
+
+h3{
+    text-align: left;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    font-size: 30px;
+
+}
+
+.chick1{
+    color: black;
+    font-size: 24px;
+
+}
+
+.chick2{
+    color: black;
+    font-size: 24px;
+
+}
+.chick3{
+    color: black;
+    font-size: 24px;
+
+}
+body{
+    background-color: black ;
+    
+}
