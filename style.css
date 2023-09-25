@@ -1,10 +1,18 @@
+body
 
 h1{
     color: yellow;
-    background-color: black;
+    background-color: rgb(109, 224, 222);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 45px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: ridge;
+    border-width: 5px;
+
+    
 }
 
 img{
@@ -17,8 +25,17 @@ h3{
     text-align: left;
     color: yellow;
     font-family: 'Times New Roman', Times, serif;
-    background-color: black;
+    background-color:rgb(109, 224, 222) ;
     font-size: 30px;
+    margin-right: 1500px;
+    border-style: groove;
+    border-width: 5px;
+    padding: 30px;
+
+}
+
+ul{
+    background-color:   ;
 
 }
 
@@ -39,6 +56,16 @@ h3{
 
 }
 body{
-    background-color: black ;
+    background-color: red ;
     
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    background-color: aqua;
+    margin-right: 1400px;
+    border-width: 5px;
+    border-style: ridge;
+
 }
